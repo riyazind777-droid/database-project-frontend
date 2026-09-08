@@ -343,9 +343,7 @@ function App() {
                 Luxury Cars
               </h1>
 
-              <p className="text-xs text-slate-400">
-                MongoDB Database Project
-              </p>
+              
 
             </div>
 
@@ -366,9 +364,7 @@ function App() {
       <main className="mx-auto max-w-7xl px-6 py-10">
 
 
-        {/* =====================================
-            TITLE
-        ===================================== */}
+    
 
         <div className="mb-10 text-center">
 
@@ -386,12 +382,7 @@ function App() {
 
           </h2>
 
-          <p className="mx-auto mt-4 max-w-2xl text-slate-400">
-
-            Add, search, update and manage luxury
-            vehicles stored in MongoDB.
-
-          </p>
+         
 
         </div>
 
@@ -423,8 +414,7 @@ function App() {
           >
 
 
-            {/* NAME */}
-
+            
             <input
 
               name="name"
@@ -602,13 +592,7 @@ function App() {
 
         <section className="mb-10 rounded-3xl border border-slate-800 bg-slate-900 p-6">
 
-          <h3 className="mb-2 text-xl font-bold">
-            🔎 MongoDB Queries
-          </h3>
-
-          <p className="mb-5 text-sm text-slate-400">
-            Practice MongoDB query operators
-          </p>
+          
 
 
           <div className="flex flex-wrap gap-3">
@@ -753,7 +737,7 @@ function App() {
               >
 
 
-                {/* CAR */}
+              
 
                 <div className="flex h-32 items-center justify-center bg-gradient-to-br from-slate-800 to-slate-950">
 
@@ -836,7 +820,7 @@ function App() {
                   </div>
 
 
-                  {/* ACTIONS */}
+                  
 
                   <div className="flex gap-3">
 
@@ -886,7 +870,7 @@ function App() {
 
       <footer className="border-t border-slate-800 py-6 text-center text-sm text-slate-600">
 
-        Luxury Cars • MongoDB CRUD & Query Operations
+        Luxury Cars 
 
       </footer>
 
